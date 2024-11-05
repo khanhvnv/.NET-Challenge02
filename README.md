@@ -1,10 +1,11 @@
 # Starter app for Create a web UI with ASP.NET Core
 
-Welcome! This is the homework for the Challenge 01:
-- Create a new .Net Core minimal API
-- Create a new class model Category (ID, Name)
-- Create one endpoint to get category data (hard-coded data)
-- Run and test endpoint with postman
+Welcome! This is the homework for the Challenge 02:
+- Integrate with Entity Framework Core, connect with SQL Server database
+- Using code first to create category model
+- Seed hard-coded category data to Entity Framework Core
+- Change get category endpoint from hard-coded data to retrieve data from Entity Framework Core
+- Run and test endpoint with postman"	
 
 ## Completed version
 
